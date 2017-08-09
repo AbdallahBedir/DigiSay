@@ -1,0 +1,22 @@
+:host{
+    
+}
+.wrapper{
+    padding:30px 80px 0 80px;
+    background-image:url('../assets/background.png');
+    .mat-tab-group{
+        margin-top:20px;
+    }
+    .charts-graph{
+        margin:10px 0;
+    }
+    .table{
+        margin:25px 0;
+    }
+}
+.mat-tab-label{
+    width:50%;
+}
+.charts-graph{
+    padding:25px;
+}

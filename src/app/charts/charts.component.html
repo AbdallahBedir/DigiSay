@@ -1,0 +1,14 @@
+<div>
+    <div style="display: block" >
+      <canvas baseChart *ngIf="DataLoaded"
+              [datasets]="barChartData"
+              [labels]="barChartLabels"
+              [options]="barChartOptions"
+              [legend]="barChartLegend"
+              [chartType]="barChartType"
+              (chartHover)="chartHovered($event)"
+              (chartClick)="chartClicked($event)">
+      </canvas>
+    </div>
+    <!--<button md-raised-button (click)="randomize()">Update Data</button>-->
+</div>
