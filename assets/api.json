@@ -1,0 +1,70 @@
+{
+    "platform":"twitter",
+    "client":"Lionel Messi",
+    "items":[
+        {
+            "date":"2017-01-01",
+            "followers":"256553",
+            "revenue":{
+                "amount": "1234.56",
+                "currency": "USD"
+            }
+        },
+        {
+            "date":"2017-02-01",
+            "followers":"532697",
+            "revenue":{
+                "amount": "3234.56",
+                "currency": "USD"
+            }
+        },  
+        {
+            "date":"2017-03-01",
+            "followers":"732697",
+            "revenue":{
+                "amount": "5234.56",
+                "currency": "USD"
+            }
+        },
+        {
+            "date":"2017-04-01",
+            "followers":"832697",
+            "revenue":{
+                "amount": "6834.56",
+                "currency": "USD"
+            }
+        },
+        {
+            "date":"2017-05-01",
+            "followers":"986697",
+            "revenue":{
+                "amount": "7821.56",
+                "currency": "USD"
+            }
+        },
+        {
+            "date":"2017-06-01",
+            "followers":"1086697",
+            "revenue":{
+                "amount": "8261.56",
+                "currency": "USD"
+            }
+        },
+        {
+            "date":"2017-07-01",
+            "followers":"1186697",
+            "revenue":{
+                "amount": "9321.56",
+                "currency": "USD"
+            }
+        },
+        {
+            "date":"2017-8-01",
+            "followers":"1286697",
+            "revenue":{
+                "amount": "10321.56",
+                "currency": "USD"
+            }
+        }
+    ]
+}
